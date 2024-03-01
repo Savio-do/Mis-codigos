@@ -7,6 +7,7 @@ Acerca de este Repositorio
 Este repositorio ha sido creado para almacenar y compartir códigos relacionados con el nivel inicial de la Inteligencia Artificial, diseñados específicamente para estudiantes de Ingeniería Mecatrónica. Aquí encontrarás ejemplos simples y prácticos que introducen conceptos fundamentales de la Inteligencia Artificial y su aplicación en problemas del mundo real.
 
 Uso
+
 Si eres estudiante de Ingeniería Mecatrónica y estás interesado en aprender sobre Inteligencia Artificial desde cero, este repositorio es para ti. Explora los códigos y utilízalos como una herramienta de aprendizaje complementaria para entender los conceptos básicos de la IA y su aplicación en la Ingeniería Mecatrónica.
 
 Contribución
