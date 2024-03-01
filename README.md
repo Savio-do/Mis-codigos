@@ -16,4 +16,4 @@ Si tienes códigos adicionales relacionados con la Introducción a la Inteligenc
 Contacto
 Si tienes alguna pregunta o sugerencia sobre los códigos o si necesitas orientación adicional en algún tema relacionado con la Inteligencia Artificial, no dudes en contactarme a través de los canales proporcionados en este repositorio.
 
-¡Espero que estos códigos te ayuden a dar tus primeros pasos en el emocionante mundo de la Inteligencia Artificial dentro de la Ingeniería Mecatrónica!
+
