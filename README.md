@@ -1,15 +1,10 @@
 Repositorio de Códigos de Introducción a la Inteligencia Artificial para Ingeniería Mecatrónica
+
+
 ¡Bienvenido al repositorio de códigos de Introducción a la Inteligencia Artificial para Ingeniería Mecatrónica!
 
 Acerca de este Repositorio
 Este repositorio ha sido creado para almacenar y compartir códigos relacionados con el nivel inicial de la Inteligencia Artificial, diseñados específicamente para estudiantes de Ingeniería Mecatrónica. Aquí encontrarás ejemplos simples y prácticos que introducen conceptos fundamentales de la Inteligencia Artificial y su aplicación en problemas del mundo real.
-
-Contenido
-Conceptos Básicos: Implementaciones de algoritmos básicos de IA, como búsqueda en profundidad, búsqueda en anchura, algoritmos genéticos, y más.
-
-Aprendizaje Automático: Ejemplos de conceptos de aprendizaje automático, incluyendo clasificación, regresión y clustering.
-
-Proyectos Prácticos: Ejemplos de proyectos prácticos que aplican técnicas de IA a problemas sencillos, como reconocimiento de patrones y procesamiento de lenguaje natural.
 
 Uso
 Si eres estudiante de Ingeniería Mecatrónica y estás interesado en aprender sobre Inteligencia Artificial desde cero, este repositorio es para ti. Explora los códigos y utilízalos como una herramienta de aprendizaje complementaria para entender los conceptos básicos de la IA y su aplicación en la Ingeniería Mecatrónica.
